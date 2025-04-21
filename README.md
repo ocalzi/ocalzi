@@ -21,7 +21,7 @@ Welcome to my space. I’m a hands-on **Cloud & Kubernetes Architect**, with a s
 
 ## 🧠 What I’m Working On
 
-- 🥇 Completing the **Kubestronaut** certification path  (In progress
+- 🥇 Completing the **Kubestronaut** certification path  (In progress)
 - 🎯 Becoming AWS Solutions Architect – Associate certified (In progress)
 - 📐 Exploring **TOGAF** and enterprise architecture frameworks  
 - 💸 Diving into **FinOps** and sustainable cloud spend management  
