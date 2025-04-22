@@ -79,4 +79,3 @@ Welcome to my space. I’m a hands-on **Cloud & Kubernetes Architect**, with a s
 ## Profile Views
 
 <h2 align="center"> <img src="https://komarev.com/ghpvc/?username=ocalzi" alt="Bryan Krausen" /> <h2>
-
