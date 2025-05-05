@@ -15,7 +15,6 @@ Welcome to my space. I’m a hands-on **Cloud & Kubernetes Architect**, with a s
 - **Monitoring & Reliability**: Prometheus, Loki, Grafana, AlertManager  
 - **OS & Runtime**: Linux, systemd, Bash, Python 
 - **Architecture**: Event-driven, service mesh, multi-cloud, on-premise to cloud transitions
--  
 ---
 
 ## 🧠 What I’m Working On
