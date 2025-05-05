@@ -14,14 +14,13 @@ Welcome to my space. I’m a hands-on **Cloud & Kubernetes Architect**, with a s
 - **Secrets & Security**: Vault, RBAC, PodSecurityPolicies, OPA  
 - **Monitoring & Reliability**: Prometheus, Loki, Grafana, AlertManager  
 - **OS & Runtime**: Linux, systemd, Bash, Python 
-- **Architecture**: Event-driven, service mesh, multi-cloud, on-premise to cloud transitions  
-- **Certs**: KCNA, KCSA, CKS (Golden Kubestronaut candidate), AWS SA (in progress), TOGAF (target 2024), FinOps (target 2025)
-
+- **Architecture**: Event-driven, service mesh, multi-cloud, on-premise to cloud transitions
+-  
 ---
 
 ## 🧠 What I’m Working On
 
-- 🥇 Completing the **Kubestronaut** certification path  (In progress)
+- 🥇 Completing the **Golden Kubestronaut** certification path  (In progress)
 - 🎯 Becoming AWS Solutions Architect – Associate certified (In progress)
 - 📐 Exploring **TOGAF** and enterprise architecture frameworks  
 - 💸 Diving into **FinOps** and sustainable cloud spend management  
@@ -31,7 +30,7 @@ Welcome to my space. I’m a hands-on **Cloud & Kubernetes Architect**, with a s
 
 ## 🧳 Current Roles
 
-- **SRE Lead / IT Owner** in a scale-up environment (Belgium 🇧🇪)  
+- **SRE Linux / IT Owner** in a scale-up environment (Belgium 🇧🇪)  
 - **Freelance Consultant** – working with European clients on cloud migration, architecture audits, and platform hardening (France 🇫🇷)
 
 ---
@@ -44,7 +43,7 @@ Welcome to my space. I’m a hands-on **Cloud & Kubernetes Architect**, with a s
 | **[Microsoft Certified: Azure Fundamentals](https://www.credly.com/earner/earned/badge/deaf63e1-5d89-49f9-be6c-7b833619bf12)** | June 30, 2021| No Expiration Date | ![Microsoft Badge](https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 | **[Microsoft Certified: Azure Administrator Associate](https://www.credly.com/earner/earned/badge/09830588-7fe7-4732-af35-cff6206d9e66)** | Dec 28, 2022 | Dec 28, 2025 | ![Microsoft Badge](https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
 | **[CKAD – Certified Kubernetes Application Developer](https://www.credly.com/earner/earned/badge/32936e2c-4532-4448-ab62-95fcce4135ff)** | Jan 29, 2021 | Jan 30, 2024 | ![CKAD Badge](https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)|
-| **[CKS - Certified Kubernetes Security Specialist](https://www.credly.com/earner/earned/badge/1d172860-7bcc-4d2c-abf2-d95147cad049)** | Mar 30, 2022 | Mar 30, 2024 | ![CKS Badge](https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png) |
+| **[CKS - Certified Kubernetes Security Specialist](https://www.credly.com/earner/earned/badge/1d172860-7bcc-4d2c-abf2-d95147cad049)** | Apr 28, 2025 | Apr 30, 2027 | ![CKS Badge](https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png) |
 | **[CKA: Certified Kubernetes Administrator](https://www.credly.com/earner/earned/badge/e405d258-5a6e-4d8d-bed5-340237eb87b3)** | Apr 29, 2021 | Apr 15, 2026 | ![CKA Badge](https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png) |
 | **[KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/earner/earned/badge/5dbd4311-a914-4575-8da3-a414ec70a763)** | Jan 28, 2025 | Jan 29, 2027 | ![KCNA Badge](https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png) |
 | **[KCSA: Kubernetes and Cloud Native Security Associate](https://www.credly.com/earner/earned/badge/bd276c5a-c209-426f-8396-06e486092765)** | Mar 07, 2025 | Mar 08, 2027 | ![KCSA Badge](https://images.credly.com/size/680x680/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png) |
