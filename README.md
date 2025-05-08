@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Olivier Calzi — SRE & DevSecOps Consultant
+# 👋 Hi, I’m Olivier Calzi — SRE & DevOps Consultant
 
-Welcome to my space. I’m a hands-on **Cloud & Kubernetes Architect**, with a strong focus on **SRE**, **platform security**, and **infrastructure design at scale**.
+Welcome to my space. I’m a hands-on **SRE & DevOps Consultant**, with a strong focus on **SRE**, **platform security**, and **infrastructure design at scale**.
 
 🚀 I love working at the intersection of DevOps, architecture strategy, and security — helping teams move faster, safer, and smarter in cloud-native environments.
+I will share in my repositories examples of actions to be done by tools like Terraform.
 
 ---
 
