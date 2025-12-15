@@ -20,7 +20,6 @@ I will share in my repositories examples of actions to be done by tools like Ter
 
 ## 🧠 What I’m Working On
 
-- 🥇 Completing the **Golden Kubestronaut** certification path  (In progress)
 - 🎯 Becoming AWS Solutions Architect – Associate certified (In progress)
 - 📐 Exploring **TOGAF** and enterprise architecture frameworks  
 - 💸 Diving into **FinOps** and sustainable cloud spend management  
@@ -54,6 +53,11 @@ I will share in my repositories examples of actions to be done by tools like Ter
 | **[CAPA: Certified Argo Project Associate](https://www.credly.com/earner/earned/badge/16139209-eb72-4d0b-ac86-0253e1d86791)** | Aug 18, 2025 | Aug 19, 2027 | ![CAPA Badge](https://images.credly.com/size/680x680/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png) |
 | **[CNPA: Certified Cloud Native Platform Engineering Associate](https://www.credly.com/earner/earned/badge/ef832134-6b14-42cb-bbd6-8f23745b6798)** | Sept 09, 2025 | Sept 10, 2027 | ![CNPA Badge](https://images.credly.com/size/680x680/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob) |
 | **[KCA: Kyverno Certified Associate](https://www.credly.com/earner/earned/badge/0f936fba-0f8b-4def-b277-880880459ab3)** | Sept 15, 2025 | Sept 16, 2027 | ![KCA Badge](https://images.credly.com/size/680x680/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png) |
+| **[LFCS: Linux Foundation Certified Systems Administrator](https://www.credly.com/earner/earned/badge/f9312e0f-6dd4-43ef-90a4-0213075bee74)** | Oct 15, 2025 | Oct 16, 2027 | ![LFCS Badge](https://images.credly.com/size/340x340/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png) |
+| **[CBA: Certified Backstage Associate](https://www.credly.com/earner/earned/badge/6db5106c-dd44-41e7-b5b8-4776595aa6e8)** | Oct 22, 2025 | Oct 23, 2027 | ![CBA Badge](https://images.credly.com/size/340x340/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png) |
+| **[CCA: Cilium Certified Associate](https://www.credly.com/earner/earned/badge/298a2596-42e8-4d69-a893-94cba456dfb4)** | Nov 13, 2025 | Nov 14, 2027 | ![CCA Badge](https://images.credly.com/size/340x340/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png) |
+| **[ICA: Istio Certified Associate](https://www.credly.com/earner/earned/badge/5162e283-a605-4030-8cf4-51ab9fffd1a9)** | Dec 02, 2025 | Dec 03, 2027 | ![ICA Badge](https://images.credly.com/size/340x340/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png) |
+| **[Golden Kubestronaut](https://www.credly.com/earner/earned/badge/cb1b2534-b777-4a27-a071-0223dc39835f)** | Dec, 2025 |  | ![Golden Kubestronaut Badge](https://images.credly.com/size/340x340/images/1dba0197-1013-4f23-8918-9479f77172d6/blob)|
 | **[HashiCorp Certified: Consul Associate (002)](https://www.credly.com/earner/earned/badge/0997f85c-7b71-4822-8b6a-47f478f852e2)** | Nov 27, 2023 | Nov 27, 2025 | ![Consul Badge](https://images.credly.com/size/680x680/images/8d1dd8e5-c702-4ba1-9167-1d58bbe6c641/blob) |
 | **[HashiCorp Certified: Terraform Associate (003](https://www.credly.com/earner/earned/badge/00af26c2-c121-4c3e-81c3-3023f31bbe88)**| July 05, 2024 | July 05, 2026 | ![Terraform Badge](https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob) |
 | **[HashiCorp Certified: Vault Associate (003)](https://www.credly.com/earner/earned/badge/c5ab9f15-8b43-478d-85ed-c0eaa9be0607)** |June 03, 2025 | Jun 04, 2027 | ![HashiCorp Vault](https://images.credly.com/size/680x680/images/a366e439-0eee-419b-a6fd-48b7807c9035/blob) |
