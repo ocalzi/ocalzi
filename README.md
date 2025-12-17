@@ -31,6 +31,7 @@ I will share in my repositories examples of actions to be done by tools like Ter
 
 - **SRE Linux / IT Owner** in a scale-up environment (Belgium 🇧🇪)  
 - **Freelance Consultant** – working with European clients on cloud migration, architecture audits, and platform hardening (France 🇫🇷)
+- **Golden Kubestronaut** - Belgium Chapter
 
 ---
 ## 🧾 Certifications
