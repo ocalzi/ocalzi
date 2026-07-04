@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Olivier Calzi — SRE & DevOps Consultant
 
+[![DevStats Card](https://devstats.me/?username=ocalzi)](https://github.com/tico88612/devstats-card)
+
+
 Welcome to my space. I’m a hands-on **SRE & DevOps Consultant**, with a strong focus on **SRE**, **platform security**, and **infrastructure design at scale**.
 
 🚀 I love working at the intersection of DevOps, architecture strategy, and security — helping teams move faster, safer, and smarter in cloud-native environments.
